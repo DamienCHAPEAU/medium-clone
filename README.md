@@ -1,4 +1,4 @@
-#Summary
+# Summary
 TypeScript, Sanity CMS, React, Tailwind CSS, ISR
 
 # Next.js + Tailwind CSS Example
